@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="3.4.2 Homework">
-      <change beforePath="$PROJECT_DIR$/3.4.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.4.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629831634554</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="3.4.2 Homework">
+      <created>1629832987216</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1629832987216</updated>
+    </task>
+    <task id="LOCAL-00025" summary="3.4.2 Homework">
+      <created>1629873654541</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1629873654541</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,0 +1,152 @@
+1. При режимы работы DR балансировщика, это происходит потому что он не видит ответы backend серверов клиентам, 
+потому что они идут напрямиг клиентам в обход балансировщика. Следовательно, ipvs не знает, ответил ли backend сервер
+клиенту или нет, поэтому TCP соединение остается установленным еще какое-то время. После определенного таймаута,
+соединения закрываются.
+2. Установил 5 виртуалок. На 2 из них балансировщики в режимах MASTER и BACKUP, на 2 обычный NGINX и клиент.
+Keepalived.conf на BACKUP
+
+global_defs {
+  router_id kpl_2
+}
+vrrp_instance kpl {
+        state BACKUP
+        interface eth0
+        lvs_sync_daemon_inteface eth0
+        virtual_router_id 30
+        priority 100
+        advert_int 1
+        authentication {
+                auth_type PASS
+                auth_pass qweASD123
+        }
+        virtual_ipaddress {
+                192.168.2.40/24 dev eth0
+        }
+}
+virtual_server 192.168.2.40 80 {
+        delay_loop 6
+        lvs_sched rr
+        lvs_method DR
+        protocol TCP
+        real_server 192.168.2.29 80 {
+                weight 1
+                TCP_CHECK {
+                        connect_timeout 3
+                        connect_port 80
+                }
+        }
+        real_server 192.168.2.30 80 {
+                weight 1
+                TCP_CHECK {
+                        connect_timeout 3
+                        connect_port 80
+                }
+        }
+}
+Прим.: На MASTER меняет название на kpl_1 и state на MASTER и priority на 150.
+
+root@vagrant:/home/vagrant# ipvsadm -ln    (На Master)
+IP Virtual Server version 1.2.1 (size=4096)
+Prot LocalAddress:Port Scheduler Flags
+  -> RemoteAddress:Port           Forward Weight ActiveConn InActConn
+TCP  192.168.2.40:80 rr
+  -> 192.168.2.29:80              Route   1      0          0
+  -> 192.168.2.30:80              Route   1      0          0
+
+root@vagrant:/home/vagrant# ipvsadm -ln    (На Backup)
+IP Virtual Server version 1.2.1 (size=4096)
+Prot LocalAddress:Port Scheduler Flags
+  -> RemoteAddress:Port           Forward Weight ActiveConn InActConn
+TCP  192.168.2.40:80 rr
+  -> 192.168.2.29:80              Route   1      0          0
+  -> 192.168.2.30:80              Route   1      0          0
+
+Применяем правки к ядру, чтобы отключить обработку ARP на Loopback.
+root@vagrant:/home/vagrant# echo "net.ipv4.conf.all.arp_ignore=1" >>/etc/sysctl.d/99-sysctl.conf   (на 1 реале)
+root@vagrant:/home/vagrant# echo "net.ipv4.conf.all.arp_announce=2" >>/etc/sysctl.d/99-sysctl.conf
+root@vagrant:/home/vagrant# sysctl -p
+net.ipv4.conf.all.arp_ignore = 1
+net.ipv4.conf.all.arp_announce = 2
+
+root@vagrant:/home/vagrant# echo "net.ipv4.conf.all.arp_ignore=1" >>/etc/sysctl.d/99-sysctl.conf   (на 2 реале)
+root@vagrant:/home/vagrant# echo "net.ipv4.conf.all.arp_announce=2" >>/etc/sysctl.d/99-sysctl.conf
+root@vagrant:/home/vagrant# sysctl -p
+net.ipv4.conf.all.arp_ignore = 1
+net.ipv4.conf.all.arp_announce = 2
+
+Указываем VIP/32 на loopback на обоих реалах:
+root@vagrant:/home/vagrant# ip addr add 192.168.2.40/32 dev lo label lo:40 (на 1 реале)
+root@vagrant:/home/vagrant# ip addr add 192.168.2.40/32 dev lo label lo:40 (на 2 реале)
+
+root@vagrant:/home/vagrant# ip a
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 192.168.2.40/32 scope global lo:40
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host
+       valid_lft forever preferred_lft forever
+
+Проверяем.
+
+root@vagrant:/home/vagrant# for i in {1..50}; do curl -I -s http://192.168.2.40; done
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Mon, 20 Sep 2021 14:57:52 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Mon, 20 Sep 2021 13:15:21 GMT
+Connection: keep-alive
+ETag: "61488969-264"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Mon, 20 Sep 2021 14:57:52 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Mon, 20 Sep 2021 13:15:13 GMT
+Connection: keep-alive
+ETag: "61488961-264"
+Accept-Ranges: bytes
+
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Mon, 20 Sep 2021 14:57:52 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Mon, 20 Sep 2021 13:15:21 GMT
+Connection: keep-alive
+ETag: "61488969-264"
+Accept-Ranges: bytes
+
+root@vagrant:/home/vagrant# ipvsadm -ln           (на MASTER)
+IP Virtual Server version 1.2.1 (size=4096)
+Prot LocalAddress:Port Scheduler Flags
+  -> RemoteAddress:Port           Forward Weight ActiveConn InActConn
+TCP  192.168.2.40:80 rr
+  -> 192.168.2.29:80              Route   1      4          0
+  -> 192.168.2.30:80              Route   1      8          0
+
+root@vagrant:/home/vagrant# ipvsadm -ln            (на BACKUP)
+IP Virtual Server version 1.2.1 (size=4096)
+Prot LocalAddress:Port Scheduler Flags
+  -> RemoteAddress:Port           Forward Weight ActiveConn InActConn
+TCP  192.168.2.40:80 rr
+  -> 192.168.2.29:80              Route   1      0          0
+  -> 192.168.2.30:80              Route   1      0          0
+
+Проверим работу, при выходе из строя MASTER.
+root@vagrant:/home/vagrant# for i in {1..50}; do curl -I -s http://192.168.2.40; done
+
+root@vagrant:/home/vagrant# ipvsadm -ln    (На BACKUP)
+IP Virtual Server version 1.2.1 (size=4096)
+Prot LocalAddress:Port Scheduler Flags
+  -> RemoteAddress:Port           Forward Weight ActiveConn InActConn
+TCP  192.168.2.40:80 rr
+  -> 192.168.2.29:80              Route   1      0          25
+  -> 192.168.2.30:80              Route   1      0          26
+
+3. Я думаю 4 VIP, как вариант будет достаточно. Исходя из потоковых мощностей, как я понял, на хост в среднем идет 0.5 Гбит/с.
+При выходе 1 из строя, его трафик на себя возьмет 4. 
