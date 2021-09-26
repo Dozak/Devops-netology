@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="3.4.2 Homework">
+    <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="Update Homework">
+      <change afterPath="$PROJECT_DIR$/4.2.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -16,6 +25,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/4.2.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1uCiteXAkUZaIERnyvcErMTUHfj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +39,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TF_FMT" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lidron\Desktop\devops-netology" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -212,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629873654541</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Update Homework">
+      <created>1632665505260</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1632665505260</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +262,7 @@
     <MESSAGE value="Readme new" />
     <MESSAGE value="3.3.1 Homework" />
     <MESSAGE value="3.4.2 Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.4.2 Homework" />
+    <MESSAGE value="Update Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Homework" />
   </component>
 </project>

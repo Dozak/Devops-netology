@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 
 import os
 import sys
@@ -12,5 +12,6 @@ result_os = os.popen(' && '.join(bash_command)).read()
 for result in result_os.split('\n'):
     if result.find('modified') != -1:
         prepare_result = result.replace('\tmodified: ', '')
+        separator='/'
         output=a+prepare_result
-	print(output)
+        print(output)
