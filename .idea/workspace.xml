@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 5.4.1">
+    <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 5.4.2">
+      <change afterPath="$PROJECT_DIR$/2 блок/Images/Jenkins_auth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 блок/Images/Jenkins_not_auth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 блок/Images/Jenkins_ok.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2 блок/5.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 блок/5.4.md" afterDir="false" />
     </list>
@@ -379,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635683816253</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Update 2 блок&#10;HomeWork 5.4.2">
+      <created>1635690628386</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1635690628386</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,6 +421,7 @@
     <MESSAGE value="Update 2 блок&#10;HomeWork 5.2" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 5.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 5.4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 5.4.1" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 5.4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 5.4.2" />
   </component>
 </project>
