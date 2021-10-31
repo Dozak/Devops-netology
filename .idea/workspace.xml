@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.2">
+    <list default="true" id="748163d0-6ebf-41ea-ae18-024c980942d5" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.2.2">
       <change beforePath="$PROJECT_DIR$/2 блок/6.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 блок/6.2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00003" summary="merge: @ instead *">
-      <created>1624176307487</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1624176307487</updated>
     </task>
     <task id="LOCAL-00004" summary="merge: use shift">
       <created>1624176329297</created>
@@ -406,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635701302437</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Update 2 блок&#10;HomeWork 6.2.2">
+      <created>1635703895933</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1635703895933</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,6 +442,7 @@
     <MESSAGE value="Update 2 блок&#10;HomeWork 5.4.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.2" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.2.2" />
   </component>
 </project>
