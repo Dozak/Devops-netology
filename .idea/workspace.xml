@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.3.2">
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.3.4">
+      <change afterPath="$PROJECT_DIR$/2 блок/6.4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 блок/6.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 блок/6.3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00009" summary="merge: @ instead *">
-      <created>1624177096817</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1624177096817</updated>
-    </task>
-    <task id="LOCAL-00010" summary="merge: use shift">
-      <created>1624177114794</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1624177114794</updated>
     </task>
     <task id="LOCAL-00011" summary="reb">
       <created>1624177143795</created>
@@ -407,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636028019357</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Update 2 блок&#10;HomeWork 6.3.3">
+      <created>1636030241336</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1636030241336</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Update 2 блок&#10;HomeWork 6.3.4">
+      <created>1636030447857</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1636030447857</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,8 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="prepare for merge and rebase" />
-    <MESSAGE value="merge: @ instead *" />
     <MESSAGE value="merge: use shift" />
     <MESSAGE value="reb" />
     <MESSAGE value="git-rebase 1" />
@@ -449,6 +447,8 @@
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.2.6" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.3.2" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.3" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.3.4" />
   </component>
 </project>
