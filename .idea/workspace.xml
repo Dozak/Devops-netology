@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.5.1">
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.5.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2 блок/6.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 блок/6.5.md" afterDir="false" />
     </list>
@@ -63,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Readme new">
-      <created>1624801889370</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1624801889370</updated>
     </task>
     <task id="LOCAL-00017" summary="Readme new">
       <created>1624801955183</created>
@@ -407,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636047294606</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Update 2 блок&#10;HomeWork 6.5.2">
+      <created>1636048281380</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1636048281380</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="3.3.1 Homework" />
     <MESSAGE value="3.4.2 Homework" />
     <MESSAGE value="Update Homework" />
     <MESSAGE value="Update 1 блок" />
@@ -449,6 +448,7 @@
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.4" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.5.1" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.5.2" />
   </component>
 </project>
