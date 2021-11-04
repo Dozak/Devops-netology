@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.4.2">
-      <change beforePath="$PROJECT_DIR$/2 блок/6.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 блок/6.4.md" afterDir="false" />
-    </list>
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.4.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,13 +60,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00013" summary="git-rebase 2">
-      <created>1624177286698</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1624177286698</updated>
     </task>
     <task id="LOCAL-00014" summary="Readme new">
       <created>1624186392234</created>
@@ -406,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636035166861</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Update 2 блок&#10;HomeWork 6.4.3">
+      <created>1636035955058</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1636035955058</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +421,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="git-rebase 1" />
     <MESSAGE value="git-rebase 2" />
     <MESSAGE value="Readme new" />
     <MESSAGE value="3.3.1 Homework" />
@@ -448,6 +445,7 @@
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.4" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.4.2" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.4.3" />
   </component>
 </project>
