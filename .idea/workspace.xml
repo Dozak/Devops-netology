@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.4.3" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.4.4">
+      <change afterPath="$PROJECT_DIR$/2 блок/6.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Readme new">
-      <created>1624186392234</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1624186392234</updated>
     </task>
     <task id="LOCAL-00015" summary="Readme new">
       <created>1624801754322</created>
@@ -404,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636035955058</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Update 2 блок&#10;HomeWork 6.4.4">
+      <created>1636036771401</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1636036771401</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="git-rebase 2" />
     <MESSAGE value="Readme new" />
     <MESSAGE value="3.3.1 Homework" />
     <MESSAGE value="3.4.2 Homework" />
@@ -446,6 +448,7 @@
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.2" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.4.3" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2 блок&#10;HomeWork 6.4.4" />
   </component>
 </project>
