@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 7.3.2">
+      <change afterPath="$PROJECT_DIR$/3 блок/8.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/group_vars/all/examp.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/group_vars/deb/examp.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/group_vars/el/examp.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/inventory/prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/inventory/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.1/playbook/site.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 блок/7.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/2 блок/7.3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
