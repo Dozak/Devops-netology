@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 8.1">
+      <change afterPath="$PROJECT_DIR$/3 блок/8.1_Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3 блок/8.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/3 блок/8.1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,20 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Update 2 блок&#10;HomeWork 5.1">
-      <created>1634627360710</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1634627360710</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Update 2 блок&#10;HomeWork 5.2">
-      <created>1634715714642</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1634715714642</updated>
     </task>
     <task id="LOCAL-00042" summary="Update 2 блок&#10;HomeWork 5.3">
       <created>1635679996891</created>
@@ -407,7 +396,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641412448532</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Update 3 блок&#10;HomeWork 8.1">
+      <created>1641413206452</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1641413206452</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Update 3 блок&#10;HomeWork 8.1">
+      <created>1641413441069</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1641413441069</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
