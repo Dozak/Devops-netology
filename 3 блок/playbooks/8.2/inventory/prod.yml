@@ -1,10 +1,10 @@
 ---
-elasticsearch:
-  hosts:
-    elastic1:
-      ansible_connection: docker
-kibana:
-  hosts:
-    kibana1:
-      ansible_connection: docker
+  elasticsearch:
+    hosts:
+      elasticsearch:
+        ansible_connection: docker
+  kibana:
+    hosts:
+      kibana:
+        ansible_connection: docker
 
