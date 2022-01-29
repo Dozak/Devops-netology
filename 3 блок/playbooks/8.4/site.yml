@@ -1,0 +1,10 @@
+---
+- hosts: elasticsearch
+  roles:
+  - elastic-role
+- hosts: kibana
+  roles:
+  - kibana-role
+- hosts: filebeat
+  roles:
+  - filebeat-role

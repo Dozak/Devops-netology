@@ -1,0 +1,13 @@
+---
+  - src: git@github.com:Dozak/hw_8.4_elastic-role.git
+    scm: git
+    version: "v1.0.1"
+    name: elastic-role
+  - src: git@github.com:Dozak/hw_8.4_filebeat-role.git
+    scm: git
+    version: "v1.0.0"
+    name: filebeat-role
+  - src: git@github.com:Dozak/hw_8.4_kibana-role.git
+    scm: git
+    version: "v1.0.0"
+    name: kibana-role

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 8.3" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок">
+      <change afterPath="$PROJECT_DIR$/3 блок/8.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/group_vars/all/vars.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/group_vars/elasticsearch/vars.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/group_vars/filebeat/vars.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/group_vars/kibana/vars.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/inventory/prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/requirements.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/site.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/templates/elk.sh.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/templates/fb.sh.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/playbooks/8.4/templates/kib.sh.j2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_01_2022_13_18_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_01_2022_13_18__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +61,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TF_FMT" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3 блок/playbooks" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw_8.4_kibana-role" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,13 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Update 2 блок&#10;HomeWork 5.4.3">
-      <created>1635696912797</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1635696912797</updated>
     </task>
     <task id="LOCAL-00050" summary="Update 2 блок&#10;HomeWork 6.1">
       <created>1635699620140</created>
@@ -409,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642951112459</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Update 3 блок">
+      <created>1642954682183</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1642954682183</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +442,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.2.6" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.2" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.3" />
@@ -450,6 +466,7 @@
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.1" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.2" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок&#10;HomeWork 8.3" />
+    <MESSAGE value="Update 3 блок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок" />
   </component>
 </project>

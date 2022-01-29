@@ -1,0 +1,13 @@
+---
+  elasticsearch:
+    hosts:
+      elasticsearch:
+        ansible_connection: docker
+  kibana:
+    hosts:
+      kibana:
+        ansible_connection: docker
+  filebeat:
+    hosts:
+      filebeat:
+        ansible_connection: docker
