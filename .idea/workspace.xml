@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 8.4">
-      <change beforePath="$PROJECT_DIR$/3 блок/8.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/3 блок/8.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/8.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Update 2 блок&#10;HomeWork 6.2">
-      <created>1635701302437</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1635701302437</updated>
     </task>
     <task id="LOCAL-00052" summary="Update 2 блок&#10;HomeWork 6.2.2">
       <created>1635703895933</created>
@@ -411,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643469758485</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Update 3 блок&#10;HomeWork 8.4">
+      <created>1643469841881</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1643469841882</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
