@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 10.3&#10;Update 2">
-      <change afterPath="$PROJECT_DIR$/3 блок/10.6.md" afterDir="false" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 8.1">
+      <change afterPath="$PROJECT_DIR$/3 блок/10.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/10.4.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/10.4.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/10.4.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/docker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2022_12_24__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2022_12_24__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -47,8 +54,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TF_FMT" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw_8.4_kibana-role" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3 блок/playbooks" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,6 +75,174 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Update 2 блок&#10;HomeWork 5.4.3">
+      <created>1635696912797</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1635696912797</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Update 2 блок&#10;HomeWork 6.1">
+      <created>1635699620140</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1635699620140</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Update 2 блок&#10;HomeWork 6.2">
+      <created>1635701302437</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1635701302437</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Update 2 блок&#10;HomeWork 6.2.2">
+      <created>1635703895933</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1635703895933</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Update 2 блок&#10;HomeWork 6.2.4">
+      <created>1635704722262</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1635704722262</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Update 2 блок&#10;HomeWork 6.2.5">
+      <created>1635705151939</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1635705151939</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Update 2 блок&#10;HomeWork 6.2.6">
+      <created>1635708507388</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1635708507389</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Update 2 блок&#10;HomeWork 6.3.1">
+      <created>1636027522476</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1636027522477</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Update 2 блок&#10;HomeWork 6.3.2">
+      <created>1636028019357</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1636028019357</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Update 2 блок&#10;HomeWork 6.3.3">
+      <created>1636030241336</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1636030241336</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Update 2 блок&#10;HomeWork 6.3.4">
+      <created>1636030447857</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1636030447857</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Update 2 блок&#10;HomeWork 6.4.1">
+      <created>1636033187526</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1636033187526</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Update 2 блок&#10;HomeWork 6.4.2">
+      <created>1636035166861</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1636035166861</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Update 2 блок&#10;HomeWork 6.4.3">
+      <created>1636035955058</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1636035955058</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Update 2 блок&#10;HomeWork 6.4.4">
+      <created>1636036771401</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1636036771401</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Update 2 блок&#10;HomeWork 6.5.1">
+      <created>1636047294606</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1636047294606</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Update 2 блок&#10;HomeWork 6.5.2">
+      <created>1636048281380</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1636048281380</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Update 2 блок&#10;HomeWork 6.5.3">
+      <created>1636051509188</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1636051509188</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Update 2 блок&#10;HomeWork 6.5.3">
+      <created>1638095768356</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1638095768356</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Update 2 блок&#10;HomeWork 6.6.2">
+      <created>1638097282675</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1638097282675</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Update 2 блок&#10;HomeWork 6.6.3">
+      <created>1638099064937</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1638099064937</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Update 2 блок&#10;HomeWork 6.6.4">
+      <created>1638099338616</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1638099338616</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Update 2 блок&#10;HomeWork 7.1.1">
+      <created>1638100880740</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1638100880740</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Update 2 блок&#10;HomeWork 7.1.1">
+      <created>1638100917634</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1638100917634</updated>
     </task>
     <task id="LOCAL-00073" summary="Update 2 блок&#10;HomeWork 7.1.2">
       <created>1638101754764</created>
@@ -244,175 +419,7 @@
       <option name="project" value="LOCAL" />
       <updated>1642951112459</updated>
     </task>
-    <task id="LOCAL-00098" summary="Update 3 блок">
-      <created>1642954682183</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1642954682183</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Update 3 блок&#10;HomeWork 8.4">
-      <created>1643469758485</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1643469758485</updated>
-    </task>
-    <task id="LOCAL-00100" summary="Update 3 блок&#10;HomeWork 8.4">
-      <created>1643469841881</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1643469841882</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Update 3 блок&#10;HomeWork 8.5">
-      <created>1644160808359</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1644160808360</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Update 3 блок&#10;HomeWork 9.1">
-      <created>1645968959680</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1645968959681</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Update 3 блок&#10;HomeWork 9.1">
-      <created>1645969211950</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1645969211950</updated>
-    </task>
-    <task id="LOCAL-00104" summary="Update 3 блок&#10;HomeWork 9.1">
-      <created>1645969238077</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1645969238077</updated>
-    </task>
-    <task id="LOCAL-00105" summary="Update 3 блок&#10;HomeWork 9.3&#10;Maven">
-      <created>1646425134874</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1646425134874</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Update 3 блок&#10;HomeWork 9.3&#10;Maven">
-      <created>1646425178717</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1646425178717</updated>
-    </task>
-    <task id="LOCAL-00107" summary="Update 3 блок&#10;HomeWork 9.3&#10;Maven">
-      <created>1646425227874</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1646425227874</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Update 3 блок&#10;HomeWork 9.3&#10;Maven">
-      <created>1646425236695</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1646425236695</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Update 3 блок&#10;HomeWork 9.3&#10;Maven">
-      <created>1646462429795</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1646462429795</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Update 3 блок&#10;HomeWork 9.3&#10;Maven">
-      <created>1646466574482</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1646466574482</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Update 3 блок&#10;HomeWork 10.1">
-      <created>1647885676219</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1647885676220</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 2">
-      <created>1647969719279</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1647969719281</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 2">
-      <created>1647969758876</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1647969758876</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 2">
-      <created>1647969880199</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1647969880199</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 2">
-      <created>1647969973454</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1647969973454</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 3">
-      <created>1647971410567</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1647971410567</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 4">
-      <created>1647973769001</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1647973769001</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Update 3 блок&#10;HomeWork 10.2&#10;Update 5">
-      <created>1647976037996</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1647976037996</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Update 3 блок&#10;HomeWork 10.3&#10;Update 1">
-      <created>1649166202913</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1649166202914</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Update 3 блок&#10;HomeWork 10.3&#10;Update 2">
-      <created>1649166291041</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1649166291041</updated>
-    </task>
-    <task id="LOCAL-00121" summary="Update 3 блок&#10;HomeWork 10.3&#10;Update 2">
-      <created>1649166341299</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1649166341299</updated>
-    </task>
-    <option name="localTasksCounter" value="122" />
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,9 +432,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.2.6" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.1" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.2" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.3" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.4" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.1" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.2" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.3" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.4" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.1" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.2" />
+    <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.6.2" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.6.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.6.4" />
@@ -441,18 +461,6 @@
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.1" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.2" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.3" />
-    <MESSAGE value="Update 3 блок" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 8.4" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 8.5" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 9.1" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 9.3&#10;Maven" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.1" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.2&#10;Update 2" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.2&#10;Update 3" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.2&#10;Update 4" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.2&#10;Update 5" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.3&#10;Update 1" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.3&#10;Update 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок&#10;HomeWork 10.3&#10;Update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок&#10;HomeWork 8.3" />
   </component>
 </project>
