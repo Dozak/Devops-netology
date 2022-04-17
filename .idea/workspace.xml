@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 8.1">
-      <change afterPath="$PROJECT_DIR$/3 блок/10.4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/10.4.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/10.4.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/10.4.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.4/docker.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2022_12_24__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2022_12_24__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 10.4&#10;Update 1">
+      <change afterPath="$PROJECT_DIR$/3 блок/10.5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.5/10.5.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.5/10.5.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.5/10.5.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 блок/Pictures/10.5/10.5.4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Update 2 блок&#10;HomeWork 5.4.3">
-      <created>1635696912797</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1635696912797</updated>
     </task>
     <task id="LOCAL-00050" summary="Update 2 блок&#10;HomeWork 6.1">
       <created>1635699620140</created>
@@ -419,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642951112459</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Update 3 блок&#10;HomeWork 10.4&#10;Update 1">
+      <created>1650187620622</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1650187620622</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,7 +434,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.2.6" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.2" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.3" />
@@ -461,6 +458,7 @@
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.1" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.2" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок&#10;HomeWork 8.3" />
+    <MESSAGE value="Update 3 блок&#10;HomeWork 10.4&#10;Update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок&#10;HomeWork 10.4&#10;Update 1" />
   </component>
 </project>
