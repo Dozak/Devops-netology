@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 3 блок&#10;HomeWork 10.5&#10;Update 1">
-      <change afterPath="$PROJECT_DIR$/4 блок/11.1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_04_2022_12_17_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_04_2022_12_17__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 4 блок&#10;HomeWork 11.1&#10;Update 1">
+      <change afterPath="$PROJECT_DIR$/4 блок/11.2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Update 2 блок&#10;HomeWork 6.2">
-      <created>1635701302437</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1635701302437</updated>
     </task>
     <task id="LOCAL-00052" summary="Update 2 блок&#10;HomeWork 6.2.2">
       <created>1635703895933</created>
@@ -415,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650189263939</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Update 4 блок&#10;HomeWork 11.1&#10;Update 1">
+      <created>1652184002035</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1652184002035</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +430,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.2" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.3.4" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.1" />
@@ -457,6 +454,7 @@
     <MESSAGE value="Update 3 блок&#10;HomeWork 8.3" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 10.4&#10;Update 1" />
     <MESSAGE value="Update 3 блок&#10;HomeWork 10.5&#10;Update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 3 блок&#10;HomeWork 10.5&#10;Update 1" />
+    <MESSAGE value="Update 4 блок&#10;HomeWork 11.1&#10;Update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 4 блок&#10;HomeWork 11.1&#10;Update 1" />
   </component>
 </project>
