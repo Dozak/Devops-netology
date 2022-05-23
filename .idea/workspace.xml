@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 4 блок&#10;HomeWork 11.5&#10;Update 1">
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 4 блок&#10;HomeWork 12.1&#10;Update 3">
+      <change afterPath="$PROJECT_DIR$/4 блок/12.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/Pictures/12.2_kube_config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/Pictures/12.2_secret.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/Role_Binding.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/Service_accaunt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/role.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 блок/11.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/4 блок/12.5.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +48,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "TF_FMT": "false",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;TF_FMT&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shvetsov\Desktop\devops-netology\3 блок\playbooks" />
@@ -67,27 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Update 2 блок&#10;HomeWork 6.3.2">
-      <created>1636028019357</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1636028019357</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Update 2 блок&#10;HomeWork 6.3.3">
-      <created>1636030241336</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1636030241336</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Update 2 блок&#10;HomeWork 6.3.4">
-      <created>1636030447857</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1636030447857</updated>
     </task>
     <task id="LOCAL-00060" summary="Update 2 блок&#10;HomeWork 6.4.1">
       <created>1636033187526</created>
@@ -411,7 +395,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653042017799</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Update 4 блок&#10;HomeWork 11.5&#10;Update 2">
+      <created>1653047101377</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1653047101377</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Update 4 блок&#10;HomeWork 11.5&#10;Update 2">
+      <created>1653047128973</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1653047128973</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Update 4 блок&#10;HomeWork 12.1&#10;Update 3">
+      <created>1653047378817</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1653047378817</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,8 +432,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.2" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.3" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.4.4" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.5.2" />
@@ -452,6 +455,8 @@
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.2&#10;Update 1" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.2&#10;Update 2" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.5&#10;Update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 4 блок&#10;HomeWork 11.5&#10;Update 1" />
+    <MESSAGE value="Update 4 блок&#10;HomeWork 11.5&#10;Update 2" />
+    <MESSAGE value="Update 4 блок&#10;HomeWork 12.1&#10;Update 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 4 блок&#10;HomeWork 12.1&#10;Update 3" />
   </component>
 </project>
