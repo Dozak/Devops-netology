@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 4 блок&#10;HomeWork 12.3&#10;Update 1" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 4 блок&#10;HomeWork 12.4&#10;Update 1.00">
+      <change afterPath="$PROJECT_DIR$/4 блок/12.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/Vagrantfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/all.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/aws.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/azure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/containerd.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/coreos.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/cri-o.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/docker.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/etcd.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/gcp.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/hcloud.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/oci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/offline.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/openstack.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/upcloud.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/vsphere.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/etcd.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/addons.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-cluster.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-calico.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-canal.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-cilium.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-flannel.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-kube-ovn.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-kube-router.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-macvlan.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-weave.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/inventory.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_05_2022_12_59_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_05_2022_12_59__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/Role_Binding.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/Service_accaunt.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/role.yaml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,13 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Update 2 блок&#10;HomeWork 6.5.3">
-      <created>1636051509188</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1636051509188</updated>
     </task>
     <task id="LOCAL-00067" summary="Update 2 блок&#10;HomeWork 6.5.3">
       <created>1638095768356</created>
@@ -408,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653317758615</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Update 4 блок&#10;HomeWork 12.3&#10;Update 1.01">
+      <created>1653317811032</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1653317811032</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,8 +461,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.6.2" />
-    <MESSAGE value="Update 2 блок&#10;HomeWork 6.6.3" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/3 блок/Задания/mnt-homeworks" />
+    </ignored-roots>
     <MESSAGE value="Update 2 блок&#10;HomeWork 6.6.4" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 7.1.1" />
     <MESSAGE value="Update 2 блок&#10;HomeWork 7.1.2" />
@@ -449,6 +487,8 @@
     <MESSAGE value="Update 4 блок&#10;HomeWork 12.2&#10;Update 2" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 12.2&#10;Update 3" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 12.3&#10;Update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 4 блок&#10;HomeWork 12.3&#10;Update 1" />
+    <MESSAGE value="Update 4 блок&#10;HomeWork 12.3&#10;Update 1.01" />
+    <MESSAGE value="Update 4 блок&#10;HomeWork 12.4&#10;Update 1.00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 4 блок&#10;HomeWork 12.4&#10;Update 1.00" />
   </component>
 </project>

@@ -1,0 +1,40 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "bento/ubuntu-22.04"
+  config.vm.box_version = "202206.03.0"
+ 
+  config.vm.provider "virtualbox" do |vb|
+      vb.memory = 4096
+      vb.cpus = 4
+  end
+
+  config.vm.define "kuber" do |kuber|
+    master.vm.hostname = "kuber.local"
+    master.vm.network "public_network", bridge: "Intel(R) I210 Gigabit Network Connection"
+    master.vm.provision "shell", inline: "
+        apt update
+        apt upgrade -y
+	apt install sudo -y
+    "
+  end
+
+  config.vm.define "node1" do |node1|
+    node1.vm.hostname = "node1.local"
+    node1.vm.network "public_network", bridge: "Intel(R) I210 Gigabit Network Connection"
+    node1.vm.provision "shell", inline: "
+        apt update
+        apt upgrade -y
+	apt install sudo -y
+    "
+  end
+
+  config.vm.define "node2" do |node2|
+    node2.vm.hostname = "node2.local"
+    node2.vm.network "public_network", bridge: "Intel(R) I210 Gigabit Network Connection"
+    node2.vm.provision "shell", inline: "
+        apt update
+        apt upgrade -y
+	apt install sudo -y
+    "
+  end
+
+end
