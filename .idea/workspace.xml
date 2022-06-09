@@ -2,42 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 4 блок&#10;HomeWork 12.4&#10;Update 1.00">
-      <change afterPath="$PROJECT_DIR$/4 блок/12.4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/Vagrantfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/aws.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/azure.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/containerd.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/coreos.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/cri-o.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/docker.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/etcd.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/gcp.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/hcloud.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/oci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/offline.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/openstack.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/upcloud.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/all/vsphere.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/etcd.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/addons.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-cluster.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-calico.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-canal.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-cilium.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-flannel.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-kube-ovn.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-kube-router.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-macvlan.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/group_vars/k8s_cluster/k8s-net-weave.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 блок/files/12.4/cluster/inventory.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_05_2022_12_59_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_05_2022_12_59__Default_Changelist_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/12.5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.5/deploymant.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 блок/files/12.5/network.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/Role_Binding.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/Service_accaunt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/deployment.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 блок/files/12.4/role.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +34,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c78a32b4-fcf1-4344-95d5-b1c1e4abf804" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -77,12 +48,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;TF_FMT&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "TF_FMT": "false",
+    "settings.editor.selected.configurable": "vcs.Subversion"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shvetsov\Desktop\devops-netology\3 блок\playbooks" />
@@ -94,6 +65,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shvetsov\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 2 блок&#10;HomeWork 6.2.6" />
@@ -101,13 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Update 2 блок&#10;HomeWork 6.5.3">
-      <created>1638095768356</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1638095768356</updated>
     </task>
     <task id="LOCAL-00068" summary="Update 2 блок&#10;HomeWork 6.6.2">
       <created>1638097282675</created>
@@ -445,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653317811032</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Update 4 блок&#10;HomeWork 12.4&#10;Update 1.00">
+      <created>1654766856193</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1654766856194</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
