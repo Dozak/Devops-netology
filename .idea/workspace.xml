@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 5 блок&#10;HomeWork 14.4&#10;Update 1.00">
-      <change beforePath="$PROJECT_DIR$/5 блок/14.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/5 блок/14.4.md" afterDir="false" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 5 блок&#10;HomeWork 14.5&#10;Update 1.00">
+      <change beforePath="$PROJECT_DIR$/5 блок/14.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/5 блок/14.5.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00079" summary="Update 2 блок&#10;HomeWork 7.3">
-      <created>1638115960922</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1638115960922</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Update 2 блок&#10;HomeWork 7.3.2">
-      <created>1638116195913</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1638116195913</updated>
     </task>
     <task id="LOCAL-00081" summary="Update 2 блок&#10;HomeWork 7.3.2">
       <created>1638116251593</created>
@@ -415,7 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671962945713</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Update 5 блок&#10;HomeWork 14.4&#10;Update 1.01">
+      <created>1671963159691</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1671963159691</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Update 5 блок&#10;HomeWork 14.5&#10;Update 1.00">
+      <created>1671963402403</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1671963402403</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,8 +434,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/3 блок/Задания/mnt-homeworks" />
     </ignored-roots>
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.4&#10;Update 1" />
-    <MESSAGE value="Update 3 блок&#10;HomeWork 10.5&#10;Update 1" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.1&#10;Update 1" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.2&#10;Update 1" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.2&#10;Update 2" />
@@ -459,6 +457,8 @@
     <MESSAGE value="Update 5 блок&#10;HomeWork 14.2&#10;Update 1.02" />
     <MESSAGE value="Update 5 блок&#10;HomeWork 14.3&#10;Update 1.00" />
     <MESSAGE value="Update 5 блок&#10;HomeWork 14.4&#10;Update 1.00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 5 блок&#10;HomeWork 14.4&#10;Update 1.00" />
+    <MESSAGE value="Update 5 блок&#10;HomeWork 14.4&#10;Update 1.01" />
+    <MESSAGE value="Update 5 блок&#10;HomeWork 14.5&#10;Update 1.00" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 5 блок&#10;HomeWork 14.5&#10;Update 1.00" />
   </component>
 </project>
