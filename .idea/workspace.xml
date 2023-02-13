@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update 5 блок&#10;HomeWork 15.1&#10;Update 1.00" />
+    <list default="true" id="983c4460-90f2-4aac-a106-e6204b30f4bd" name="Default Changelist" comment="Update Diplom&#10;Diplom &#10;Update 0.01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624176190145</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Update 3 блок&#10;HomeWork 8.1">
-      <created>1641411370433</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1641411370433</updated>
     </task>
     <task id="LOCAL-00085" summary="Update 3 блок&#10;HomeWork 8.1">
       <created>1641411415544</created>
@@ -413,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672414786421</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="Update Diplom&#10;Diplom &#10;Update 0.01">
+      <created>1676312969560</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1676312969560</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +432,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/3 блок/Задания/mnt-homeworks" />
     </ignored-roots>
-    <MESSAGE value="Update 4 блок&#10;HomeWork 11.2&#10;Update 2" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.5&#10;Update 1" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 11.5&#10;Update 2" />
     <MESSAGE value="Update 4 блок&#10;HomeWork 12.1&#10;Update 3" />
@@ -457,6 +456,7 @@
     <MESSAGE value="Update 5 блок&#10;HomeWork 14.4&#10;Update 1.0" />
     <MESSAGE value="Update 5 блок&#10;HomeWork 14.5&#10;Update 1.00" />
     <MESSAGE value="Update 5 блок&#10;HomeWork 15.1&#10;Update 1.00" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 5 блок&#10;HomeWork 15.1&#10;Update 1.00" />
+    <MESSAGE value="Update Diplom&#10;Diplom &#10;Update 0.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Diplom&#10;Diplom &#10;Update 0.01" />
   </component>
 </project>
